@@ -1,2 +1,4 @@
 # Seestar_reserch_data
-very many gooood tHingd
+
+
+This repository was made for my new research about "catching the nova using Seestar"
